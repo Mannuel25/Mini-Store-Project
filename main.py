@@ -9,8 +9,6 @@ from field_to_delete import  get_field_to_delete
 from items_in_file import no_of_items_in_file
 
 def main():
-    filename = 'myStore.txt'
-    open_file = open(filename,'w')
     UserOption = ''
     while UserOption != 9:
         UserOption = get_user_option()
