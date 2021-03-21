@@ -3,7 +3,7 @@
 # Various tasks can be done such as:
 ![Alt Text](Screenshots/options.png)
 
-# Here is a sneak peak into the program
+# Here is a sneak peak into the program:
 ![Alt Text](Screenshots/screenshot_1.png)
 ![Alt Text](Screenshots/screenshot_2.png)
 ![Alt Text](Screenshots/screenshot_3.png)
