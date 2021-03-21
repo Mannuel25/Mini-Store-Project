@@ -4,6 +4,6 @@
 *![Alt Text](Screenshots/options.png)
 
 # Here is a sneak peak into the program
-![Alt Text] (Screenshots/screenshot_1.png)
-![Alt Text] (Screenshots/screenshot_2.png)
-![Alt Text] (Screenshots/screenshot_3.png)
+![Alt Text](Screenshots/screenshot_1.png)
+![Alt Text](Screenshots/screenshot_2.png)
+![Alt Text](Screenshots/screenshot_3.png)
