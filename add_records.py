@@ -1,6 +1,6 @@
 def addRecords():
     """
-    Writes items and their respective 
+    Writes item description and their respective 
     net weight(in grams) and quantities to a file
     :return: None
     """
