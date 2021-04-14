@@ -27,7 +27,7 @@ def get_user_option():
     print('\ta. Description')
     print('\tb. Net weight')
     print('\tc. Quantity')
-    print('8.Check the total number of items in the file')
+    print('8. Check the total number of items in the file')
     print('9. End')
     # make a list of valid numbers to be entered by user to perform a task
     available_options = [*range(1,10)]
