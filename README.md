@@ -10,7 +10,7 @@ It requires no prerequisites, you only need to run the script. If you don't have
 
 To run the script, open a terminal in the folder where your script is located and run the following command 
 
-`python main.py`.
+`python main.py`
 
 # Various tasks can be done such as
 
