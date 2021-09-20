@@ -8,7 +8,7 @@ There are no requirements; all you have to do is run the script. If you don't al
 
 # How to run the script
 
-To run the script, open a terminal in the folder where your script is located and run the following command 
+To run the script, open a terminal and type the following command in the folder where your script is saved.
 
 `python main.py`
 
