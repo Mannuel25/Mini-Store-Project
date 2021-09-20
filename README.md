@@ -1,6 +1,6 @@
 # Item Tracker for Mini Stores
 
-This is a program that assists micro stores in keeping track of the things they have in stock, as well as their descriptions, net weights, and quantities.
+This is a program that assists mini stores in keeping track of the things they have in stock, as well as their descriptions, net weights, and quantities.
 
 # Requirements
 
