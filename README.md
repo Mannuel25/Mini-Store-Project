@@ -1,4 +1,4 @@
-# Mini Store Items Tracker
+# Item Tracker for Mini Stores
 
 This is a program that helps mini stores keep track of the items available in store, with their respective description, net weight, and quantity. 
 
