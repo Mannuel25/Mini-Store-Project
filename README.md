@@ -1,8 +1,8 @@
 # Item Tracker for Mini Stores
 
-This is a program that helps mini stores keep track of the items available in store, with their respective description, net weight, and quantity. 
+ This is a program that assists micro stores in keeping track of the things they have in stock, as well as their descriptions, net weights, and quantities.
 
-# Prerequisites
+# PrerequisitesThis
 
 It requires no prerequisites, you only need to run the script. If you don't have Python installed, you can visit [here](https://www.python.org/downloads/) to download Python.
 
