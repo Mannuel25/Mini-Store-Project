@@ -2,7 +2,7 @@
 
  This is a program that assists micro stores in keeping track of the things they have in stock, as well as their descriptions, net weights, and quantities.
 
-# PrerequisitesThis
+# Prerequisites
 
 It requires no prerequisites, you only need to run the script. If you don't have Python installed, you can visit [here](https://www.python.org/downloads/) to download Python.
 
